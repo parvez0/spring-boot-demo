@@ -1,0 +1,12 @@
+com/demo/rest/RestApplication.java
+ com.demo.rest.RestApplication
+com/demo/rest/pojos/HealthCheckResponse.java
+ com.demo.rest.pojos.HealthCheckResponse
+com/demo/rest/pojos/DataRequest.java
+ com.demo.rest.pojos.DataRequest
+com/demo/rest/pojos/GenericResponse.java
+ com.demo.rest.pojos.GenericResponse
+com/demo/rest/models/IndexModel.java
+ com.demo.rest.models.IndexModel
+com/demo/rest/controller/Index.java
+ com.demo.rest.controller.Index
